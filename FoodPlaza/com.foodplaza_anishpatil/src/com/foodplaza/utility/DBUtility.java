@@ -9,9 +9,9 @@ public class DBUtility
 	public static Connection establishConnection() throws ClassNotFoundException, SQLException
 	{
 		String url,user,password;
-		url = "jdbc:mysql://localhost:3306/foodplaza_anishpatil";
+		url = "jdbc:mysql://localhost:3306/(Your Database Name which is write in mysql)";
 		user = "root";
-		password = "Root";
+		password = "(Your Password)";
 		
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		Connection conn = DriverManager.getConnection(url,user,password);
