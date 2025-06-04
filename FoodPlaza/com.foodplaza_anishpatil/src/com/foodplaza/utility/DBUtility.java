@@ -11,7 +11,7 @@ public class DBUtility
 		String url,user,password;
 		url = "jdbc:mysql://localhost:3306/(Your Database Name which is write in mysql)";
 		user = "root";
-		password = "(Your Password)";
+		password = "(Your MYSQL Password)";
 		
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		Connection conn = DriverManager.getConnection(url,user,password);
