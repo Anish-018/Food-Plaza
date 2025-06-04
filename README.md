@@ -1,6 +1,6 @@
 🍽️ Food Plaza – Java Desktop Application for Food Ordering & Management
 
-Food Plaza is a Java-based desktop application designed to simulate a real-world food ordering and restaurant management system. Built using core Java, Swing for GUI, JDBC for database interaction, and MySQL for backend storage, this application serves as an ideal learning project for mastering CRUD operations and MVC architecture in Java.
+Food Plaza is a Java-based desktop application designed to simulate a real-world food ordering and restaurant management system. Built using core Java, Swing for GUI, JDBC for database interaction, and MySQL for backend storage, this application serves as an ideal learning project for mastering CRUD operations and Model View Controller architecture in Java.
 
 ---
 
