@@ -56,7 +56,7 @@ public class FoodMain
 				
 				else
 				{
-					System.out.println("Food Adding Failed\n");
+					System.out.println("Food Adding Failed!!!\n");
 				}
 				
 				break;
